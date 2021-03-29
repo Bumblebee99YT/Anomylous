@@ -1,0 +1,17 @@
+{
+  "name": "anomylous",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bumblebee99",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.1.11"
+  }
+}
