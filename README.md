@@ -1,5 +1,5 @@
 # Anomylous
-My first Discord.js bot, might host eventually but for now, im uploading its code here
+My first Discord.js bot... Hosted on Replit.com
 
 ---
 
